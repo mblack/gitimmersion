@@ -2,6 +2,6 @@
 
 task :default => :run
 
-task :rn do
+task :run do
   require './lib/hello'
 end
